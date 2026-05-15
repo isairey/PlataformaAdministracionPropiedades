@@ -439,13 +439,13 @@ git push origin feature/nueva-funcionalidad
 
 ---
 
-# 👨‍💻 Créditos
+# 👨‍💻 Desarrollador
 
 <div align="center">
 
-## Proyecto desarrollado por Isai Reyes
+## Isai Reyes — Full Stack Developer
 
-Sistema administrativo inmobiliario  🏢
+Desarrollador apasionado por la creación de plataformas modernas, sistemas administrativos, aplicaciones Full Stack y soluciones escalables 🚀
 
 </div>
 
