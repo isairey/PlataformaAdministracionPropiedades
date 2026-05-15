@@ -169,7 +169,7 @@ Actualmente sirve como una excelente base educativa para aprender:
 # 📂 Estructura del proyecto
 
 ```bash
-Rental-house-management-system/
+PlataformaAdministracionPropiedades/
 │
 ├── admin/
 │   ├── functions/
@@ -207,7 +207,7 @@ Rental-house-management-system/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/ObedNyakundi/Rental-house-management-system.git
+git clone https://github.com/isairey/PlataformaAdministracionPropiedades.git
 ```
 
 ---
@@ -419,15 +419,6 @@ El proyecto cuenta con una versión moderna desarrollada en Laravel con mejoras 
 https://test1.ukwaju.systems/admin/login.php
 ```
 
----
-
-## 🎬 Video demostración
-
-- Video ilustrativo:
-  
-```txt
-https://www.youtube.com/watch?v=uL3LVG_FmCc&t=1095s
-```
 
 ---
 
@@ -463,20 +454,11 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Proyecto desarrollado por Obed Nyakundi
+## Proyecto desarrollado por Isai Reyes
 
-Sistema administrativo inmobiliario desarrollado bajo Ukwaju Systems 🏢
+Sistema administrativo inmobiliario  🏢
 
 </div>
-
----
-
-# ☕ Apoya el proyecto
-
-Puedes apoyar el desarrollo mediante:
-
-- 📲 M-Pesa: `+254706748162`
-- 💳 PayPal: `harrysp254@gmail.com`
 
 ---
 
