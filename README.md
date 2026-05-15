@@ -407,17 +407,6 @@ El proyecto cuenta con una versión moderna desarrollada en Laravel con mejoras 
 - Administración web
 - Sistemas empresariales
 
----
-
-# 🎥 Demo y recursos
-
-## 🌐 Demo del sistema
-
-- Sistema Demo:
-  
-```txt
-https://test1.ukwaju.systems/admin/login.php
-```
 
 
 ---
